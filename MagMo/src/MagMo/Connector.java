@@ -19,6 +19,10 @@ class Connector {
     OMNamespace xsd;
 
     
+    /*
+     * heelo mo!
+     */
+    
     private static final String SESSION_ID="sessionId";
     private static final String RESOURCE_PATH="resourcePath";
     private static final String ARGUMENTS="args";
