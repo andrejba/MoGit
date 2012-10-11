@@ -20,7 +20,7 @@ class Connector {
 
     
     /*
-     * heelo mo!
+     * heelo mo! hi hih i
      */
     
     private static final String SESSION_ID="sessionId";
